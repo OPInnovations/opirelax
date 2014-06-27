@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OPIRELAX</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Start">Start</string>
+    <string name="intro_text">This is a simple demonstration of the OPI relax science kit. It mimics an ElectroCardiography display showing the waveform and calculates the heart rate based on detected peaks.</string>
+    <string name="disclaimer_text">This is not a medical device and should not be used as such. It is solely for demonstration purposes. Contact OP Innovations for more information.</string>
+    <string name="usage_text">Please insert Controller and Sensor to start Configuration.(This is not a medical device and should not be used as such.)</string>
+    <string name="_">.....</string>
+    <string name="set">Set</string>
+    <string name="configuring_">Configuring...</string>
+    
+
+</resources>

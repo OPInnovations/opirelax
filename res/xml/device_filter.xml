@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- 0x03EB / 0x2404: CP210x UART Bridge -->
+    <usb-device vendor-id="1003" product-id="9220" />
+</resources>
